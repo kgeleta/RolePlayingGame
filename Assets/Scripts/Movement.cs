@@ -33,6 +33,13 @@ namespace Assets.Scripts
 				Debug.Log("Pressed X");
 			}
 
+			foreach (Transform child in this.transform)
+			{
+				var animator = child.GetComponent<Animator>();
+				animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
+				animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
+			}
+
 			this._animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
 			this._animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
 
