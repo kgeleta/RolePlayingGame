@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using UnityEditor;
@@ -12,8 +13,21 @@ namespace Assets.Editor
 		private static string _patternFilePath = $@"{Application.dataPath}/Sprites/Characters/Orc/orc.png.meta";
 		private static string _sourceFilePath = $@"{Application.dataPath}/Sprites/Armor/metal_helm_male.png.meta";
 
-		[MenuItem("SpriteEditor/ChangePosition")]
-		public static void ChangeSpriteNameBasedOnPosition()
+		[MenuItem("Assets/Normalize sprite name")]
+		public static void RunFromEditor()
+		{
+			GetSelectedObj();
+		}
+
+		private static void GetSelectedObj()
+		{
+			var selected = Selection.activeObject;
+			var path = AssetDatabase.GetAssetPath(selected);
+			Debug.Log(Application.dataPath + path.Substring(6) + ".meta");
+		}
+
+
+		private static void ChangeSpriteNameBasedOnPosition()
 		{
 			int lineToChange = 626;
 			int numberOfLines = File.ReadLines(_sourceFilePath).Count();
