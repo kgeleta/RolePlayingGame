@@ -1,114 +1,60 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace Assets.Scripts
 {
-	public class Movement : MonoBehaviour
+	public class Movement
 	{
-		private float _threshold = 0.3f;
-		private float _step = 0.04f;
-		private Animator _animator;
-		private Rigidbody2D _rigidbody2D;
+		public float Speed = 0.02f;
+		private readonly Transform _transform;
+		private readonly ChildAnimatorHelper _childAnimatorHelper;
 
-		private Direction _direction = Direction.None;
-
-		// Start is called before the first frame update
-		void Start()
+		public Movement(Transform transform, ChildAnimatorHelper childAnimatorHelper)
 		{
-			this._animator = GetComponent<Animator>();
-			this._rigidbody2D = GetComponent<Rigidbody2D>();
-
-			this._rigidbody2D.freezeRotation = true;
+			this._transform = transform;
+			this._childAnimatorHelper = childAnimatorHelper;
 		}
 
-		// Update is called once per frame
-		void Update()
-		{
-			//			if (Input.GetButton("B"))
-			//			{
-			//				Debug.Log("Pressed B");
-			//			}
-			//			if (Input.GetButton("A"))
-			//			{
-			//				Debug.Log("Pressed A");
-			//			}
-			//			if (Input.GetButton("Y"))
-			//			{
-			//				Debug.Log("Pressed Y");
-			//			}
-			//			if (Input.GetButton("X"))
-			//			{
-			//				Debug.Log("Pressed X");
-			//			}
-
-			var horizontal = Input.GetAxis("Horizontal");
-			var vertical = Input.GetAxis("Vertical");
-
-			if (horizontal > this._threshold)
-			{
-				this._direction = Direction.East;
-			}
-			else if (horizontal < -this._threshold)
-			{
-				this._direction = Direction.West;
-			}
-			else if (vertical > this._threshold)
-			{
-				this._direction = Direction.North;
-			}
-			else if (vertical < -this._threshold)
-			{
-				this._direction = Direction.South;
-			}
-			else
-			{
-				this._direction = Direction.None;
-			}
-
-			this.MoveInDirection(this._direction);
-		}
-
-		private void MoveInDirection(Direction direction)
+		public void MoveInDirection(Direction direction)
 		{
 			switch (direction)
 			{
 				case Direction.North:
 				{
-					this.SetAnimatorParameter("Vertical", 1f);
-					this.SetAnimatorParameter("Horizontal", 0f);
-					this.transform.position += new Vector3(0f, this._step);
+					this.SetAnimatorParameter(AnimationConstants.Vertical, 1f);
+					this.SetAnimatorParameter(AnimationConstants.Horizontal, 0f);
+					this._transform.position += new Vector3(0f, this.Speed);
 					break;
 				}
 
 				case Direction.South:
 				{
-					this.SetAnimatorParameter("Vertical", -1f);
-					this.SetAnimatorParameter("Horizontal", 0f);
-					this.transform.position += new Vector3(0f, -this._step);
+					this.SetAnimatorParameter(AnimationConstants.Vertical, -1f);
+					this.SetAnimatorParameter(AnimationConstants.Horizontal, 0f);
+					this._transform.position += new Vector3(0f, -this.Speed);
 					break;
 				}
 
 				case Direction.East:
 				{
-					this.SetAnimatorParameter("Vertical", 0f);
-					this.SetAnimatorParameter("Horizontal", 1f);
-					this.transform.position += new Vector3(this._step, 0f);
+					this.SetAnimatorParameter(AnimationConstants.Vertical, 0f);
+					this.SetAnimatorParameter(AnimationConstants.Horizontal, 1f);
+					this._transform.position += new Vector3(this.Speed, 0f);
 					break;
 				}
 
 				case Direction.West:
 				{
-					this.SetAnimatorParameter("Vertical", 0f);
-					this.SetAnimatorParameter("Horizontal", -1f);
-					this.transform.position += new Vector3(-this._step, 0f);
+					this.SetAnimatorParameter(AnimationConstants.Vertical, 0f);
+					this.SetAnimatorParameter(AnimationConstants.Horizontal, -1f);
+					this._transform.position += new Vector3(-this.Speed, 0f);
 					break;
 				}
 
 				case Direction.None:
 				{
 
-					this.SetAnimatorParameter("Vertical", 0f);
-					this.SetAnimatorParameter("Horizontal", 0f);
+					this.SetAnimatorParameter(AnimationConstants.Vertical, 0f);
+					this.SetAnimatorParameter(AnimationConstants.Horizontal, 0f);
 					break;
 				}
 			}
@@ -116,30 +62,16 @@ namespace Assets.Scripts
 
 		private void SetAnimatorParameter(string name, float value)
 		{
-			this._animator.SetFloat(name, value);
-
-			foreach (Transform child in this.transform)
-			{
-				try
-				{
-					var animator = child.GetComponent<Animator>();
-					animator?.SetFloat(name, value);
-				}
-				catch (MissingComponentException)
-				{
-					// ignore
-				}
-			}
-
+			this._childAnimatorHelper.Animators.ForEach(animator => animator.SetFloat(name, value));
 		}
 	}
 
 	public enum Direction
 	{
+		None,
 		North,
 		South,
 		East,
 		West,
-		None
 	}
 }
