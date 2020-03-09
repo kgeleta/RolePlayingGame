@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace Assets.Scripts
@@ -6,9 +7,9 @@ namespace Assets.Scripts
 	public class FollowerMovement : MonoBehaviour
 	{
 		private const int FrontLayer = 8;
-		private const int BackgroundLayer = 4;
+		private const int BackgroundLayer = 3;
 
-		private Renderer _renderer;
+		private List<Renderer> _renderers = new List<Renderer>();
 		private Movement _movement;
 		private Direction _direction = Direction.None;
 
@@ -21,7 +22,7 @@ namespace Assets.Scripts
 		{
 			this.GetComponent<Rigidbody2D>().freezeRotation = true;
 			this._movement = new Movement(this.transform, GetComponent<ChildAnimatorHelper>());
-			this._renderer = GetComponent<Renderer>();
+			this.InitializeRenderers();
 		}
 
 		// Update is called once per frame
@@ -57,7 +58,18 @@ namespace Assets.Scripts
 
 		private void ChangeOrderInLayer(float deltaY)
 		{
-			this._renderer.sortingOrder = deltaY > 0 ? FrontLayer : BackgroundLayer;
+			foreach (var renderer in _renderers)
+			{
+				//				renderer.sortingOrder = deltaY > 0 ? FrontLayer : BackgroundLayer;
+				renderer.sortingLayerName = deltaY > 0 ? "InFrontOfShrek" : "BehindShrek";
+
+			}
+		}
+
+		private void InitializeRenderers()
+		{
+			this._renderers.Add(this.GetComponent<Renderer>());
+			this._renderers.AddRange(this.GetComponentsInChildren<Renderer>());
 		}
 	}
 }

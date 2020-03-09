@@ -346,8 +346,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1441725543
+  m_SortingLayer: 1
   m_SortingOrder: 5
   m_Sprite: {fileID: -3704785806521338737, guid: 3fe7828cdab91e543a577bb9c83e13e1,
     type: 3}
@@ -372,11 +372,13 @@ Transform:
   m_LocalPosition: {x: 2.674, y: -0.447, z: 0}
   m_LocalScale: {x: 2, y: 2.2, z: 1}
   m_Children:
-  - {fileID: 2061400256}
-  - {fileID: 495803722}
-  - {fileID: 1775582473}
+  - {fileID: 1285082091}
   - {fileID: 651477896}
+  - {fileID: 495803722}
   - {fileID: 1487699754}
+  - {fileID: 1775582473}
+  - {fileID: 2061400256}
+  - {fileID: 1840273178}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -411,7 +413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: human_male
+  SpriteSheetName: human_male
 --- !u!114 &470257221
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -437,8 +439,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PointToFollow: {fileID: 1742949236}
-  Center: {fileID: 470257216}
-  Threshold: 0.2
+  Center: {fileID: 1840273177}
+  Threshold: 1
 --- !u!50 &470257223
 Rigidbody2D:
   serializedVersion: 4
@@ -491,7 +493,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 470257218}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &495803723
 MonoBehaviour:
@@ -505,7 +507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: chest_male
+  SpriteSheetName: chest_male
 --- !u!95 &495803724
 Animator:
   serializedVersion: 3
@@ -562,8 +564,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1441725543
+  m_SortingLayer: 1
   m_SortingOrder: 6
   m_Sprite: {fileID: -2928324308082098968, guid: c1b38b2c18e643d4e98338dd16b2ff00,
     type: 3}
@@ -756,7 +758,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 470257218}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &651477897
 MonoBehaviour:
@@ -770,7 +772,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: arms_male
+  SpriteSheetName: arms_male
 --- !u!95 &651477898
 Animator:
   serializedVersion: 3
@@ -827,8 +829,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1441725543
+  m_SortingLayer: 1
   m_SortingOrder: 6
   m_Sprite: {fileID: -6721429696548464179, guid: df182092cd0ff014290213d36db53ad6,
     type: 3}
@@ -936,7 +938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: chest_orc
+  SpriteSheetName: chest_orc
 --- !u!95 &1073234923
 Animator:
   serializedVersion: 3
@@ -1172,7 +1174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: white_pants_male
+  SpriteSheetName: white_pants_male
 --- !u!95 &1250050029
 Animator:
   serializedVersion: 3
@@ -1235,6 +1237,123 @@ SpriteRenderer:
   m_Sprite: {fileID: 3687033373981186001, guid: c1dcc8d4dc88dc2409e204465f504e8a,
     type: 3}
   m_Color: {r: 0.54509807, g: 0.27058825, b: 0.07450981, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.64, y: 0.64}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1285082090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1285082091}
+  - component: {fileID: 1285082094}
+  - component: {fileID: 1285082093}
+  - component: {fileID: 1285082092}
+  m_Layer: 0
+  m_Name: helm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1285082091
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285082090}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 470257218}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1285082092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285082090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteSheetName: metal_helm_male
+--- !u!95 &1285082093
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285082090}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 303bd6ccd419d8345ba52e1e54dcd385, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &1285082094
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285082090}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 1441725543
+  m_SortingLayer: 1
+  m_SortingOrder: 6
+  m_Sprite: {fileID: 4919450420214913723, guid: fca1b9fa4f5b4cc4a9ff5eb43e900010,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1545,7 +1664,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 470257218}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1487699755
 MonoBehaviour:
@@ -1559,7 +1678,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: metal_gloves_male
+  SpriteSheetName: metal_gloves_male
 --- !u!95 &1487699756
 Animator:
   serializedVersion: 3
@@ -1616,8 +1735,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1441725543
+  m_SortingLayer: 1
   m_SortingOrder: 6
   m_Sprite: {fileID: 4011494101855048062, guid: bfe69b7f778d3004298d113dfa1482dc,
     type: 3}
@@ -1700,8 +1819,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 837430325
+  m_SortingLayer: -2
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -3557,7 +3676,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: black_shoes_male
+  SpriteSheetName: black_shoes_male
 --- !u!95 &1736525473
 Animator:
   serializedVersion: 3
@@ -3770,7 +3889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: white_longsleeve_orc
+  SpriteSheetName: white_longsleeve_orc
 --- !u!95 &1752763594
 Animator:
   serializedVersion: 3
@@ -3873,7 +3992,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 470257218}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1775582474
 MonoBehaviour:
@@ -3887,7 +4006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: metal_pants_male
+  SpriteSheetName: metal_pants_male
 --- !u!95 &1775582475
 Animator:
   serializedVersion: 3
@@ -3944,8 +4063,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1441725543
+  m_SortingLayer: 1
   m_SortingOrder: 6
   m_Sprite: {fileID: -3279222141221257941, guid: 1ef6ef71537cb324eb7137947a5812b1,
     type: 3}
@@ -4155,6 +4274,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde903ceb4216df429a1af98252a98e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1840273177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1840273178}
+  m_Layer: 0
+  m_Name: Center
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1840273178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1840273177}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.259, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 470257218}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1860990541
 GameObject:
   m_ObjectHideFlags: 0
@@ -4433,8 +4582,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 837430325
+  m_SortingLayer: -2
   m_SortingOrder: 1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -5284,7 +5433,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 470257218}
-  m_RootOrder: 0
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2061400257
 MonoBehaviour:
@@ -5298,7 +5447,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c732e9481c60b7a4da1204cea8d599c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteSheetName: metal_boots_male
+  SpriteSheetName: metal_boots_male
 --- !u!95 &2061400258
 Animator:
   serializedVersion: 3
@@ -5355,8 +5504,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1441725543
+  m_SortingLayer: 1
   m_SortingOrder: 6
   m_Sprite: {fileID: -8687929339149162802, guid: 90f1b741e4b6ce34e9137907fa9bf08c,
     type: 3}

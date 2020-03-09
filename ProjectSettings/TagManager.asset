@@ -38,9 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 837430325
+    locked: 0
+  - name: BehindShrek
+    uniqueID: 3736671707
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 837430325
+  - name: InFrontOfShrek
+    uniqueID: 1441725543
     locked: 0

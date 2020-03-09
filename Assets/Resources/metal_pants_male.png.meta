@@ -532,7 +532,7 @@ TextureImporter:
     second: sprite_175
   - first:
       213: -8099082524109729767
-    second: sprite_176
+    second: sprite_177
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -4315,7 +4315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_176
+      name: sprite_177
       rect:
         serializedVersion: 2
         x: 320
