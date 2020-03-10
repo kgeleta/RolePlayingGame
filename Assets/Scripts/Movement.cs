@@ -20,32 +20,32 @@ namespace Assets.Scripts
 			{
 				case Direction.North:
 				{
-					this.SetAnimatorParameter(AnimationConstants.Vertical, 1f);
-					this.SetAnimatorParameter(AnimationConstants.Horizontal, 0f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Vertical, 1f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Horizontal, 0f);
 					this._transform.position += new Vector3(0f, this.Speed);
 					break;
 				}
 
 				case Direction.South:
 				{
-					this.SetAnimatorParameter(AnimationConstants.Vertical, -1f);
-					this.SetAnimatorParameter(AnimationConstants.Horizontal, 0f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Vertical, -1f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Horizontal, 0f);
 					this._transform.position += new Vector3(0f, -this.Speed);
 					break;
 				}
 
 				case Direction.East:
 				{
-					this.SetAnimatorParameter(AnimationConstants.Vertical, 0f);
-					this.SetAnimatorParameter(AnimationConstants.Horizontal, 1f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Vertical, 0f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Horizontal, 1f);
 					this._transform.position += new Vector3(this.Speed, 0f);
 					break;
 				}
 
 				case Direction.West:
 				{
-					this.SetAnimatorParameter(AnimationConstants.Vertical, 0f);
-					this.SetAnimatorParameter(AnimationConstants.Horizontal, -1f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Vertical, 0f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Horizontal, -1f);
 					this._transform.position += new Vector3(-this.Speed, 0f);
 					break;
 				}
@@ -53,8 +53,8 @@ namespace Assets.Scripts
 				case Direction.None:
 				{
 
-					this.SetAnimatorParameter(AnimationConstants.Vertical, 0f);
-					this.SetAnimatorParameter(AnimationConstants.Horizontal, 0f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Vertical, 0f);
+					this.SetAnimatorParameter(Constants.AnimatorParameters.Horizontal, 0f);
 					break;
 				}
 			}

@@ -22,14 +22,14 @@ namespace Assets
 			{
 				if (Input.GetButton("A"))
 				{
-					this._animator.SetTrigger(Constants.AnimatorParameters.INTERACTION);
+					this._animator.SetTrigger(Constants.AnimatorParameters.Interaction);
 				}
 			}
 		}
 
 		void OnCollisionEnter2D(Collision2D other)
 		{
-			if (other.gameObject.CompareTag(Constants.Tags.PLAYER))
+			if (other.gameObject.CompareTag(Constants.Tags.Player))
 			{
 				this._IsPlayerInsideCollider = true;
 			}
@@ -37,7 +37,7 @@ namespace Assets
 
 		void OnCollisionExit2D(Collision2D other)
 		{
-			if (other.gameObject.CompareTag(Constants.Tags.PLAYER))
+			if (other.gameObject.CompareTag(Constants.Tags.Player))
 			{
 				this._IsPlayerInsideCollider = false;
 			}
