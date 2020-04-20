@@ -5,6 +5,13 @@
 		public static class Tags
 		{
 			public static string Player = "Player";
+			public static string Enemy = "Enemy";
+		}
+
+		public static class Layers
+		{
+			public static string BehindShrek = "BehindShrek";
+			public static string InFrontOfShrek = "InFrontOfShrek";
 		}
 
 		public static class AnimatorParameters
@@ -18,8 +25,15 @@
 			public static string TurnLeft = "turn_left";
 			public static string TurnUp = "turn_up";
 			public static string TurnDown = "turn_down";
+			public static string Death = "death";
 
+			// Book animation
+			public static string Open = "open";
+			public static string Close = "close";
 
+			// Fire animation
+			public static string Start = "start";
+			public static string End = "end";
 		}
 	}
 }

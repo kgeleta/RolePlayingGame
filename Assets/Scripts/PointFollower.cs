@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace Assets.Scripts
@@ -10,19 +9,23 @@ namespace Assets.Scripts
 
 		private readonly GameObject _pointToFollow;
 		private readonly GameObject _center;
+		private readonly bool _disableVerticalMovement;
 
-		public PointFollower(GameObject pointToFollow, GameObject center)
+		public PointFollower(GameObject pointToFollow, GameObject center) : this(pointToFollow, center, false) {}
+
+		public PointFollower(GameObject pointToFollow, GameObject center, bool disableVerticalMovement)
 		{
 			_pointToFollow = pointToFollow;
 			_center = center;
+			this._disableVerticalMovement = disableVerticalMovement;
 		}
 
 		public Direction GetDirection()
 		{
 			// get distance
-			var distance = Vector3.Distance(this._center.transform.position, this._pointToFollow.transform.position);
-			var deltaY = this._pointToFollow.transform.position.y - this._center.transform.position.y;
 			var deltaX = this._pointToFollow.transform.position.x - this._center.transform.position.x;
+			var distance = this._disableVerticalMovement ? Math.Abs(deltaX) : Vector3.Distance(this._center.transform.position, this._pointToFollow.transform.position);
+			var deltaY = this._disableVerticalMovement ? 0f : this._pointToFollow.transform.position.y - this._center.transform.position.y;
 
 			// Check if point to follow is in distance greater then threshold
 			if (distance <= this.Threshold)
@@ -39,7 +42,7 @@ namespace Assets.Scripts
 		public string GetLayerName()
 		{
 			var deltaY = this._pointToFollow.transform.position.y - this._center.transform.position.y;
-			return deltaY > 0 ? "InFrontOfShrek" : "BehindShrek";
+			return deltaY > 0 ? Constants.Layers.InFrontOfShrek : Constants.Layers.BehindShrek;
 		}
 	}
 }

@@ -25,7 +25,6 @@ namespace Assets.Editor
 		static SpriteNameNormalizer()
 		{
 			Debug.Log("Static constructor");
-			// TODO: create 2D array with position to name mapping
 
 			string tempSpriteName = string.Empty;
 			int tempX = 0;

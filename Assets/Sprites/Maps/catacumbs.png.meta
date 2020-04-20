@@ -1,0 +1,6826 @@
+fileFormatVersion: 2
+guid: 2ae92d3da17990d4bb54667411c73bff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2701404371191166805
+    second: catacumbs_0
+  - first:
+      213: 8846052106856136877
+    second: catacumbs_1
+  - first:
+      213: 892005942197348606
+    second: catacumbs_2
+  - first:
+      213: -3031578172885624210
+    second: catacumbs_3
+  - first:
+      213: -851894450000560024
+    second: catacumbs_4
+  - first:
+      213: 4140823941207786751
+    second: catacumbs_5
+  - first:
+      213: -6235500963049273633
+    second: catacumbs_6
+  - first:
+      213: -7390442431562964736
+    second: catacumbs_7
+  - first:
+      213: 4109646549113374366
+    second: catacumbs_8
+  - first:
+      213: -7149350178833097237
+    second: catacumbs_9
+  - first:
+      213: 4918531431148044149
+    second: catacumbs_10
+  - first:
+      213: -8312100236492249019
+    second: catacumbs_11
+  - first:
+      213: 8595573993566941118
+    second: catacumbs_12
+  - first:
+      213: -5392027076748685326
+    second: catacumbs_13
+  - first:
+      213: 1476475000809432138
+    second: catacumbs_14
+  - first:
+      213: -3954802839124681221
+    second: catacumbs_15
+  - first:
+      213: 758859306507088181
+    second: catacumbs_16
+  - first:
+      213: -2510564033164028067
+    second: catacumbs_17
+  - first:
+      213: -1344853702506569043
+    second: catacumbs_18
+  - first:
+      213: -3651025964298154057
+    second: catacumbs_19
+  - first:
+      213: -1123005278935119137
+    second: catacumbs_20
+  - first:
+      213: 1787057818748318188
+    second: catacumbs_21
+  - first:
+      213: -6806308979693997553
+    second: catacumbs_22
+  - first:
+      213: 8195635877476026279
+    second: catacumbs_23
+  - first:
+      213: -440060232644589337
+    second: catacumbs_24
+  - first:
+      213: -6656151471259651592
+    second: catacumbs_25
+  - first:
+      213: 3042344408365295752
+    second: catacumbs_26
+  - first:
+      213: -6287194615203137219
+    second: catacumbs_27
+  - first:
+      213: -6745241337384530704
+    second: catacumbs_28
+  - first:
+      213: -3988172292846401439
+    second: catacumbs_29
+  - first:
+      213: 2209330854843810648
+    second: catacumbs_30
+  - first:
+      213: 6209705932745213060
+    second: catacumbs_31
+  - first:
+      213: 4616665924758405510
+    second: catacumbs_32
+  - first:
+      213: -2495281249478181881
+    second: catacumbs_33
+  - first:
+      213: 3562561382367581502
+    second: catacumbs_34
+  - first:
+      213: 5549713624578910732
+    second: catacumbs_35
+  - first:
+      213: -7265768388584534192
+    second: catacumbs_36
+  - first:
+      213: -3809784084396152742
+    second: catacumbs_37
+  - first:
+      213: -8191776349528560720
+    second: catacumbs_38
+  - first:
+      213: -4924581912378517225
+    second: catacumbs_39
+  - first:
+      213: -1351979772093929287
+    second: catacumbs_40
+  - first:
+      213: -949473762859661016
+    second: catacumbs_41
+  - first:
+      213: 136917137271708659
+    second: catacumbs_42
+  - first:
+      213: 3223495752795132970
+    second: catacumbs_43
+  - first:
+      213: 4591674609624737435
+    second: catacumbs_44
+  - first:
+      213: 4038633149849180673
+    second: catacumbs_45
+  - first:
+      213: 1239205026721300026
+    second: catacumbs_46
+  - first:
+      213: -1473857003908669811
+    second: catacumbs_47
+  - first:
+      213: -6121589347652313390
+    second: catacumbs_48
+  - first:
+      213: 7579547416390555244
+    second: catacumbs_49
+  - first:
+      213: -6679633040503225702
+    second: catacumbs_50
+  - first:
+      213: -914326090956327065
+    second: catacumbs_51
+  - first:
+      213: -4242314086536062913
+    second: catacumbs_52
+  - first:
+      213: 2159052162778487180
+    second: catacumbs_53
+  - first:
+      213: 1856921993949731835
+    second: catacumbs_54
+  - first:
+      213: -5590771358889547792
+    second: catacumbs_55
+  - first:
+      213: -2548819555265634419
+    second: catacumbs_56
+  - first:
+      213: 9002631627076139271
+    second: catacumbs_57
+  - first:
+      213: -3523305819272444913
+    second: catacumbs_58
+  - first:
+      213: 3884343723354107907
+    second: catacumbs_59
+  - first:
+      213: 1348644840200901224
+    second: catacumbs_60
+  - first:
+      213: -5404222655219286268
+    second: catacumbs_61
+  - first:
+      213: 7829909753474111758
+    second: catacumbs_62
+  - first:
+      213: 2061365523880053990
+    second: catacumbs_63
+  - first:
+      213: -3690858575684026820
+    second: catacumbs_64
+  - first:
+      213: 7807627912759610664
+    second: catacumbs_65
+  - first:
+      213: 7641344435826428647
+    second: catacumbs_66
+  - first:
+      213: -9070318744450205522
+    second: catacumbs_67
+  - first:
+      213: -7150668693987877048
+    second: catacumbs_68
+  - first:
+      213: 1042981747213481278
+    second: catacumbs_69
+  - first:
+      213: 5484599368528320716
+    second: catacumbs_70
+  - first:
+      213: 3843441678981082169
+    second: catacumbs_71
+  - first:
+      213: 5971423470610837153
+    second: catacumbs_72
+  - first:
+      213: -4378000829176458861
+    second: catacumbs_73
+  - first:
+      213: 6990205295315019866
+    second: catacumbs_74
+  - first:
+      213: -7065781815117055557
+    second: catacumbs_75
+  - first:
+      213: -7382169854086850949
+    second: catacumbs_76
+  - first:
+      213: -4641916707659100789
+    second: catacumbs_77
+  - first:
+      213: 4110424827743568180
+    second: catacumbs_78
+  - first:
+      213: -3237820783643374098
+    second: catacumbs_79
+  - first:
+      213: 4319401399407901969
+    second: catacumbs_80
+  - first:
+      213: -7185471412415501793
+    second: catacumbs_81
+  - first:
+      213: -8812465372675196851
+    second: catacumbs_82
+  - first:
+      213: -9192029476027632053
+    second: catacumbs_83
+  - first:
+      213: -1104983909141805903
+    second: catacumbs_84
+  - first:
+      213: -533958959747605365
+    second: catacumbs_85
+  - first:
+      213: 6136575110064316464
+    second: catacumbs_86
+  - first:
+      213: 6273973751777715049
+    second: catacumbs_87
+  - first:
+      213: 6516168640281530855
+    second: catacumbs_88
+  - first:
+      213: 4806036140716745183
+    second: catacumbs_89
+  - first:
+      213: -7302289227435177453
+    second: catacumbs_90
+  - first:
+      213: 4876242932749125500
+    second: catacumbs_91
+  - first:
+      213: 692887443680422180
+    second: catacumbs_92
+  - first:
+      213: -75958225485501140
+    second: catacumbs_93
+  - first:
+      213: -5324830541373595988
+    second: catacumbs_94
+  - first:
+      213: -8058486501488350005
+    second: catacumbs_95
+  - first:
+      213: -2276044101180289528
+    second: catacumbs_96
+  - first:
+      213: 436471587570390729
+    second: catacumbs_97
+  - first:
+      213: -1686126043360059046
+    second: catacumbs_98
+  - first:
+      213: -2014764682334840116
+    second: catacumbs_99
+  - first:
+      213: 7172486611906463198
+    second: catacumbs_100
+  - first:
+      213: -5073091954048035211
+    second: catacumbs_101
+  - first:
+      213: 2084543283420234061
+    second: catacumbs_102
+  - first:
+      213: 3044921744954200782
+    second: catacumbs_103
+  - first:
+      213: -1319068661859292006
+    second: catacumbs_104
+  - first:
+      213: -4712596937560016273
+    second: catacumbs_105
+  - first:
+      213: -4665466707674592496
+    second: catacumbs_106
+  - first:
+      213: -5752151419302981604
+    second: catacumbs_107
+  - first:
+      213: -474841444721696524
+    second: catacumbs_108
+  - first:
+      213: -6188075885609290314
+    second: catacumbs_109
+  - first:
+      213: -1001066771455857723
+    second: catacumbs_110
+  - first:
+      213: 8181512629797689178
+    second: catacumbs_111
+  - first:
+      213: 5998156745605311418
+    second: catacumbs_112
+  - first:
+      213: -7947134416875756767
+    second: catacumbs_113
+  - first:
+      213: 3828547854058162257
+    second: catacumbs_114
+  - first:
+      213: -4189669787148849476
+    second: catacumbs_115
+  - first:
+      213: -8790855012340068624
+    second: catacumbs_116
+  - first:
+      213: 3286339871809786107
+    second: catacumbs_117
+  - first:
+      213: -1351350482949946594
+    second: catacumbs_118
+  - first:
+      213: -162696676151581091
+    second: catacumbs_119
+  - first:
+      213: 9064873235759017252
+    second: catacumbs_120
+  - first:
+      213: 3009915884558031206
+    second: catacumbs_121
+  - first:
+      213: -4604229049111151752
+    second: catacumbs_122
+  - first:
+      213: 2040819809714353976
+    second: catacumbs_123
+  - first:
+      213: 1034699899396049751
+    second: catacumbs_124
+  - first:
+      213: -6189782805459619517
+    second: catacumbs_125
+  - first:
+      213: -8792093269810164516
+    second: catacumbs_126
+  - first:
+      213: -8038884828084049395
+    second: catacumbs_127
+  - first:
+      213: 8628781039052946728
+    second: catacumbs_128
+  - first:
+      213: -6545118232633085350
+    second: catacumbs_129
+  - first:
+      213: 5062314797635079808
+    second: catacumbs_130
+  - first:
+      213: -7335936290355186407
+    second: catacumbs_131
+  - first:
+      213: -6766333841559104480
+    second: catacumbs_132
+  - first:
+      213: -3914496594516722310
+    second: catacumbs_133
+  - first:
+      213: -2198082717250855015
+    second: catacumbs_134
+  - first:
+      213: -9131455673681757430
+    second: catacumbs_135
+  - first:
+      213: 3357573029165358161
+    second: catacumbs_136
+  - first:
+      213: 2681534845857814831
+    second: catacumbs_137
+  - first:
+      213: -2875432863902200547
+    second: catacumbs_138
+  - first:
+      213: 6095629451621898011
+    second: catacumbs_139
+  - first:
+      213: -216822629578043159
+    second: catacumbs_140
+  - first:
+      213: -1182797011832676889
+    second: catacumbs_141
+  - first:
+      213: -7362427028965823554
+    second: catacumbs_142
+  - first:
+      213: -4066451100720860460
+    second: catacumbs_143
+  - first:
+      213: -8282808235618033884
+    second: catacumbs_144
+  - first:
+      213: -4785745716802356995
+    second: catacumbs_145
+  - first:
+      213: 5698059425841837278
+    second: catacumbs_146
+  - first:
+      213: -5376919911757005777
+    second: catacumbs_147
+  - first:
+      213: -1572153013097731108
+    second: catacumbs_148
+  - first:
+      213: -2844963334706588338
+    second: catacumbs_149
+  - first:
+      213: -5560483148838750974
+    second: catacumbs_150
+  - first:
+      213: 8660409600669464287
+    second: catacumbs_151
+  - first:
+      213: 1921756879527425034
+    second: catacumbs_152
+  - first:
+      213: 6921854932621291205
+    second: catacumbs_153
+  - first:
+      213: 6744882424550006184
+    second: catacumbs_154
+  - first:
+      213: -1885438674724632739
+    second: catacumbs_155
+  - first:
+      213: 436983648887586344
+    second: catacumbs_156
+  - first:
+      213: 2168757227147671457
+    second: catacumbs_157
+  - first:
+      213: -6671056932530939961
+    second: catacumbs_158
+  - first:
+      213: 3503196769526587595
+    second: catacumbs_159
+  - first:
+      213: -5294321816866371269
+    second: catacumbs_160
+  - first:
+      213: -4156690358142193749
+    second: catacumbs_161
+  - first:
+      213: -224155440156081588
+    second: catacumbs_162
+  - first:
+      213: 5574984814225762237
+    second: catacumbs_163
+  - first:
+      213: 4838591187400250158
+    second: catacumbs_164
+  - first:
+      213: 4793761066428173581
+    second: catacumbs_165
+  - first:
+      213: 7584126479886715479
+    second: catacumbs_166
+  - first:
+      213: -205185090055210720
+    second: catacumbs_167
+  - first:
+      213: -3954623645411560589
+    second: catacumbs_168
+  - first:
+      213: -7107927362895458430
+    second: catacumbs_169
+  - first:
+      213: 1053563857904024881
+    second: catacumbs_170
+  - first:
+      213: 6532744859429369995
+    second: catacumbs_171
+  - first:
+      213: -2616186067469452620
+    second: catacumbs_172
+  - first:
+      213: -1773502940594291942
+    second: catacumbs_173
+  - first:
+      213: 6237017289860071784
+    second: catacumbs_174
+  - first:
+      213: -7121456840885495841
+    second: catacumbs_175
+  - first:
+      213: 7900852048819460743
+    second: catacumbs_176
+  - first:
+      213: 744533154067845765
+    second: catacumbs_177
+  - first:
+      213: 6277275726475993765
+    second: catacumbs_178
+  - first:
+      213: -8705246314148047830
+    second: catacumbs_179
+  - first:
+      213: 5539389897159692011
+    second: catacumbs_180
+  - first:
+      213: 706140812123526449
+    second: catacumbs_181
+  - first:
+      213: -4748947065452641379
+    second: catacumbs_182
+  - first:
+      213: 6012851164785568310
+    second: catacumbs_183
+  - first:
+      213: -4364219267751070939
+    second: catacumbs_184
+  - first:
+      213: -7139523604037296795
+    second: catacumbs_185
+  - first:
+      213: -2342792149024043839
+    second: catacumbs_186
+  - first:
+      213: 855568236717397129
+    second: catacumbs_187
+  - first:
+      213: 8372058030613367773
+    second: catacumbs_188
+  - first:
+      213: 3794164827201144380
+    second: catacumbs_189
+  - first:
+      213: -1124874843995852969
+    second: catacumbs_190
+  - first:
+      213: -8072928372207974618
+    second: catacumbs_191
+  - first:
+      213: 803326155549806666
+    second: catacumbs_192
+  - first:
+      213: 1814971555182947852
+    second: catacumbs_193
+  - first:
+      213: -8541279268245958750
+    second: catacumbs_194
+  - first:
+      213: -1244448876898626315
+    second: catacumbs_195
+  - first:
+      213: 2981725231093276040
+    second: catacumbs_196
+  - first:
+      213: 729081309765735780
+    second: catacumbs_197
+  - first:
+      213: -9013711979050206723
+    second: catacumbs_198
+  - first:
+      213: 1274104941406336729
+    second: catacumbs_199
+  - first:
+      213: 7399336654611354298
+    second: catacumbs_200
+  - first:
+      213: -4559162214694500883
+    second: catacumbs_201
+  - first:
+      213: -7588808463047443818
+    second: catacumbs_202
+  - first:
+      213: -505423862185551231
+    second: catacumbs_203
+  - first:
+      213: 2213804870580112985
+    second: catacumbs_204
+  - first:
+      213: 2768077959276285481
+    second: catacumbs_205
+  - first:
+      213: 8871843413302335645
+    second: catacumbs_206
+  - first:
+      213: -1506597258287247770
+    second: catacumbs_207
+  - first:
+      213: -1234856440774652025
+    second: catacumbs_208
+  - first:
+      213: -1475975657324473314
+    second: catacumbs_209
+  - first:
+      213: 3934559766074092530
+    second: catacumbs_210
+  - first:
+      213: 5582288242373673185
+    second: catacumbs_211
+  - first:
+      213: -1211532344374124388
+    second: catacumbs_212
+  - first:
+      213: 55177680265327956
+    second: catacumbs_213
+  - first:
+      213: 3171994120329322994
+    second: catacumbs_214
+  - first:
+      213: 4608608808507427474
+    second: catacumbs_215
+  - first:
+      213: -8391277446559820500
+    second: catacumbs_216
+  - first:
+      213: -5827022050675593500
+    second: catacumbs_217
+  - first:
+      213: 4115816355196701422
+    second: catacumbs_218
+  - first:
+      213: 3785031268529887782
+    second: catacumbs_219
+  - first:
+      213: 1213988080920723245
+    second: catacumbs_220
+  - first:
+      213: 3616046453367470666
+    second: catacumbs_221
+  - first:
+      213: -4241906489773858558
+    second: catacumbs_222
+  - first:
+      213: -6494168357408773570
+    second: catacumbs_223
+  - first:
+      213: -6732125569302086570
+    second: catacumbs_224
+  - first:
+      213: 339473276185613680
+    second: catacumbs_225
+  - first:
+      213: 6831521366668358209
+    second: catacumbs_226
+  - first:
+      213: -440113385820371013
+    second: catacumbs_227
+  - first:
+      213: 2355807680753204555
+    second: catacumbs_228
+  - first:
+      213: -3785671049821100952
+    second: catacumbs_229
+  - first:
+      213: 7971075867696009122
+    second: catacumbs_230
+  - first:
+      213: -1181699459137603230
+    second: catacumbs_231
+  - first:
+      213: -7726428331515956041
+    second: catacumbs_232
+  - first:
+      213: 4903736200420249050
+    second: catacumbs_233
+  - first:
+      213: -8082492179517437713
+    second: catacumbs_234
+  - first:
+      213: -6515241171352131261
+    second: catacumbs_235
+  - first:
+      213: -7633373735708025633
+    second: catacumbs_236
+  - first:
+      213: 4303400787647390309
+    second: catacumbs_237
+  - first:
+      213: -843238711061972985
+    second: catacumbs_238
+  - first:
+      213: 3091733300061459078
+    second: catacumbs_239
+  - first:
+      213: 8942411856251200898
+    second: catacumbs_240
+  - first:
+      213: 1628047909917075376
+    second: catacumbs_241
+  - first:
+      213: 5438079364842188178
+    second: catacumbs_242
+  - first:
+      213: -1578151296152987870
+    second: catacumbs_243
+  - first:
+      213: 873106160384014154
+    second: catacumbs_244
+  - first:
+      213: 3663920717763971735
+    second: catacumbs_245
+  - first:
+      213: 3140838170859102728
+    second: catacumbs_246
+  - first:
+      213: 3597826267204943935
+    second: catacumbs_247
+  - first:
+      213: -5831445244108391878
+    second: catacumbs_248
+  - first:
+      213: 6124904352995738
+    second: catacumbs_249
+  - first:
+      213: 2371063449689428348
+    second: catacumbs_250
+  - first:
+      213: -2061289370058829417
+    second: catacumbs_251
+  - first:
+      213: 636695435970979708
+    second: catacumbs_252
+  - first:
+      213: 2220747106767119945
+    second: catacumbs_253
+  - first:
+      213: 2029259005352852562
+    second: catacumbs_254
+  - first:
+      213: 4964674861464735191
+    second: catacumbs_255
+  - first:
+      213: -2484017852593832075
+    second: catacumbs_256
+  - first:
+      213: -3955597665399685796
+    second: catacumbs_257
+  - first:
+      213: 7439399915470403342
+    second: catacumbs_258
+  - first:
+      213: -2994611563917517352
+    second: catacumbs_259
+  - first:
+      213: 8424006511900534717
+    second: catacumbs_260
+  - first:
+      213: -6088974259487385366
+    second: catacumbs_261
+  - first:
+      213: 5533109815543048034
+    second: catacumbs_262
+  - first:
+      213: -7543879166561328279
+    second: catacumbs_263
+  - first:
+      213: 7555415250136001368
+    second: catacumbs_264
+  - first:
+      213: 4481118667282630453
+    second: catacumbs_265
+  - first:
+      213: 3374804979644836556
+    second: catacumbs_266
+  - first:
+      213: 321184174216187899
+    second: catacumbs_267
+  - first:
+      213: 5312331620562124725
+    second: catacumbs_268
+  - first:
+      213: -12610717259190071
+    second: catacumbs_269
+  - first:
+      213: 9188211865795561002
+    second: catacumbs_270
+  - first:
+      213: 1167747592213027018
+    second: catacumbs_271
+  - first:
+      213: -4553625046468563495
+    second: catacumbs_272
+  - first:
+      213: -601735778200604471
+    second: catacumbs_273
+  - first:
+      213: 5177286709201790971
+    second: catacumbs_274
+  - first:
+      213: -6903426425684048730
+    second: catacumbs_275
+  - first:
+      213: 4325497949243490333
+    second: catacumbs_276
+  - first:
+      213: -7641544070982511865
+    second: catacumbs_277
+  - first:
+      213: -1573791467061783823
+    second: catacumbs_278
+  - first:
+      213: -485149051164140306
+    second: catacumbs_279
+  - first:
+      213: 3922730297746555438
+    second: catacumbs_280
+  - first:
+      213: -4466843458612587276
+    second: catacumbs_281
+  - first:
+      213: 7502705404516599388
+    second: catacumbs_282
+  - first:
+      213: -6653399077395434349
+    second: catacumbs_283
+  - first:
+      213: -2712027771197736900
+    second: catacumbs_284
+  - first:
+      213: -5237100263383081099
+    second: catacumbs_285
+  - first:
+      213: -3743376860385300806
+    second: catacumbs_286
+  - first:
+      213: 3942260457543996832
+    second: catacumbs_287
+  - first:
+      213: 981505826411408577
+    second: catacumbs_288
+  - first:
+      213: -9094747001042226414
+    second: catacumbs_289
+  - first:
+      213: -8314253445394510035
+    second: catacumbs_290
+  - first:
+      213: -739076834888343670
+    second: catacumbs_291
+  - first:
+      213: 3259470773560412838
+    second: catacumbs_292
+  - first:
+      213: -8018137383466401900
+    second: catacumbs_293
+  - first:
+      213: -8835410317173820665
+    second: catacumbs_294
+  - first:
+      213: -4774654049737934035
+    second: catacumbs_295
+  - first:
+      213: -8235684831588450955
+    second: catacumbs_296
+  - first:
+      213: -2121444442008073937
+    second: catacumbs_297
+  - first:
+      213: -8400228840805489629
+    second: catacumbs_298
+  - first:
+      213: 2817130619141512235
+    second: catacumbs_299
+  - first:
+      213: -3209418245313213479
+    second: catacumbs_300
+  - first:
+      213: 7778603198118370522
+    second: catacumbs_301
+  - first:
+      213: 2827052494400491812
+    second: catacumbs_302
+  - first:
+      213: 3455058536042154814
+    second: catacumbs_303
+  - first:
+      213: 4749446617137497518
+    second: catacumbs_304
+  - first:
+      213: 121941427771955968
+    second: catacumbs_305
+  - first:
+      213: -2593874346420431864
+    second: catacumbs_306
+  - first:
+      213: 2654538417731895748
+    second: catacumbs_307
+  - first:
+      213: 3490667609598050814
+    second: catacumbs_308
+  - first:
+      213: 3426375072086948296
+    second: catacumbs_309
+  - first:
+      213: -3276955602668333686
+    second: catacumbs_310
+  - first:
+      213: -8716918614256110676
+    second: catacumbs_311
+  - first:
+      213: 7370570770631417224
+    second: catacumbs_312
+  - first:
+      213: -6948507151468978065
+    second: catacumbs_313
+  - first:
+      213: -5930969113744960569
+    second: catacumbs_314
+  - first:
+      213: -7285779089828677000
+    second: catacumbs_315
+  - first:
+      213: 5813364858244805501
+    second: catacumbs_316
+  - first:
+      213: -4959213526020734386
+    second: catacumbs_317
+  - first:
+      213: -7956092523308212774
+    second: catacumbs_318
+  - first:
+      213: -4581500001472424915
+    second: catacumbs_319
+  - first:
+      213: -5137028709507844591
+    second: catacumbs_320
+  - first:
+      213: -4376333118249927461
+    second: catacumbs_321
+  - first:
+      213: -2914024059223829133
+    second: catacumbs_322
+  - first:
+      213: 1291566277867441153
+    second: catacumbs_323
+  - first:
+      213: -800329616800300695
+    second: catacumbs_324
+  - first:
+      213: -5263788059857603461
+    second: catacumbs_325
+  - first:
+      213: 3602358552133436813
+    second: catacumbs_326
+  - first:
+      213: -4955123519460518811
+    second: catacumbs_327
+  - first:
+      213: -4755180767967041678
+    second: catacumbs_328
+  - first:
+      213: -2145916437466205416
+    second: catacumbs_329
+  - first:
+      213: 2858260514435436290
+    second: catacumbs_330
+  - first:
+      213: 3109271487232684451
+    second: catacumbs_331
+  - first:
+      213: 173139368298240153
+    second: catacumbs_332
+  - first:
+      213: -8859378011955221603
+    second: catacumbs_333
+  - first:
+      213: -8349132847593319673
+    second: catacumbs_334
+  - first:
+      213: -3677028575281216889
+    second: catacumbs_335
+  - first:
+      213: 4623210154256555558
+    second: catacumbs_336
+  - first:
+      213: -7718893287301218746
+    second: catacumbs_337
+  - first:
+      213: -1817626685393377116
+    second: catacumbs_338
+  - first:
+      213: 3088568695351328246
+    second: catacumbs_339
+  - first:
+      213: -5218079040877601147
+    second: catacumbs_340
+  - first:
+      213: -6525465893216682195
+    second: catacumbs_341
+  - first:
+      213: 6676249180152184264
+    second: catacumbs_342
+  - first:
+      213: -7750367074715735540
+    second: catacumbs_343
+  - first:
+      213: 7950570148572057687
+    second: catacumbs_344
+  - first:
+      213: 7218951391387473044
+    second: catacumbs_345
+  - first:
+      213: 3083653545308098314
+    second: catacumbs_346
+  - first:
+      213: 347809472131757575
+    second: catacumbs_347
+  - first:
+      213: 1800785695168856763
+    second: catacumbs_348
+  - first:
+      213: 4713410276338512364
+    second: catacumbs_349
+  - first:
+      213: 1146678679497439043
+    second: catacumbs_350
+  - first:
+      213: -4195731600973644483
+    second: catacumbs_351
+  - first:
+      213: 8325003293941006649
+    second: catacumbs_352
+  - first:
+      213: 7792214045907655453
+    second: catacumbs_353
+  - first:
+      213: -8885554131779783105
+    second: catacumbs_354
+  - first:
+      213: 8242328291216585452
+    second: catacumbs_355
+  - first:
+      213: -137837479651488325
+    second: catacumbs_356
+  - first:
+      213: -9220177758039050206
+    second: catacumbs_357
+  - first:
+      213: 975699939823681201
+    second: catacumbs_358
+  - first:
+      213: -1952479024573235067
+    second: catacumbs_359
+  - first:
+      213: 3503995673433938534
+    second: catacumbs_360
+  - first:
+      213: -2206327482565763709
+    second: catacumbs_361
+  - first:
+      213: 697831817754592854
+    second: catacumbs_362
+  - first:
+      213: 662984780038168900
+    second: catacumbs_363
+  - first:
+      213: 2311722564198259789
+    second: catacumbs_364
+  - first:
+      213: 2785258335919959525
+    second: catacumbs_365
+  - first:
+      213: -4715007436950565209
+    second: catacumbs_366
+  - first:
+      213: 2545866163083491167
+    second: catacumbs_367
+  - first:
+      213: -3594479925920367597
+    second: catacumbs_368
+  - first:
+      213: 8398197866570368804
+    second: catacumbs_369
+  - first:
+      213: -5143195601057543644
+    second: catacumbs_370
+  - first:
+      213: -8193217670169612562
+    second: catacumbs_371
+  - first:
+      213: 1369690107396891838
+    second: catacumbs_372
+  - first:
+      213: 4684895209203872167
+    second: catacumbs_373
+  - first:
+      213: 7410818654301013419
+    second: catacumbs_374
+  - first:
+      213: -8259708046895811712
+    second: catacumbs_375
+  - first:
+      213: 5861411178305172817
+    second: catacumbs_376
+  - first:
+      213: 4239913987423383756
+    second: catacumbs_377
+  - first:
+      213: -6600264452382476955
+    second: catacumbs_378
+  - first:
+      213: 6991334994266770675
+    second: catacumbs_379
+  - first:
+      213: -1505041381540550004
+    second: catacumbs_380
+  - first:
+      213: -205600230399329902
+    second: catacumbs_381
+  - first:
+      213: -3425236396383521425
+    second: catacumbs_382
+  - first:
+      213: 6180493886149856004
+    second: catacumbs_383
+  - first:
+      213: -4392845907081409449
+    second: catacumbs_384
+  - first:
+      213: 3156733002049441221
+    second: catacumbs_385
+  - first:
+      213: 227108551627193235
+    second: catacumbs_386
+  - first:
+      213: -245092121218127114
+    second: catacumbs_387
+  - first:
+      213: -4446146247537586491
+    second: catacumbs_388
+  - first:
+      213: 7483594056903672573
+    second: catacumbs_389
+  - first:
+      213: 7297803847450581651
+    second: catacumbs_390
+  - first:
+      213: -6522075271442107588
+    second: catacumbs_391
+  - first:
+      213: -7399106839537119624
+    second: catacumbs_392
+  - first:
+      213: 204155006930777539
+    second: catacumbs_393
+  - first:
+      213: 504239089986543070
+    second: catacumbs_394
+  - first:
+      213: -6413685892549982944
+    second: catacumbs_395
+  - first:
+      213: 6391514197679349385
+    second: catacumbs_396
+  - first:
+      213: 9215057221789820217
+    second: catacumbs_397
+  - first:
+      213: -3222790825998631063
+    second: catacumbs_398
+  - first:
+      213: -5773925250875415188
+    second: catacumbs_399
+  - first:
+      213: 8618185209142184381
+    second: catacumbs_400
+  - first:
+      213: -8043977101800969454
+    second: catacumbs_401
+  - first:
+      213: -4873119828952505658
+    second: catacumbs_402
+  - first:
+      213: 6178044276347450728
+    second: catacumbs_403
+  - first:
+      213: 348536298670456501
+    second: catacumbs_404
+  - first:
+      213: 8237206396771566647
+    second: catacumbs_405
+  - first:
+      213: -2196839910199843646
+    second: catacumbs_406
+  - first:
+      213: -2411482629591286909
+    second: catacumbs_407
+  - first:
+      213: 7182194228787953818
+    second: catacumbs_408
+  - first:
+      213: 8374011622844196729
+    second: catacumbs_409
+  - first:
+      213: 517732556504671799
+    second: catacumbs_410
+  - first:
+      213: -8574490999307956011
+    second: catacumbs_411
+  - first:
+      213: 787364726255208766
+    second: catacumbs_412
+  - first:
+      213: 895473641176989626
+    second: catacumbs_413
+  - first:
+      213: -2468894040162527814
+    second: catacumbs_414
+  - first:
+      213: 2853629785586542772
+    second: catacumbs_415
+  - first:
+      213: 3572486397644961024
+    second: catacumbs_416
+  - first:
+      213: 4452334636189763002
+    second: catacumbs_417
+  - first:
+      213: 548677179152854218
+    second: catacumbs_418
+  - first:
+      213: -7819472658971319105
+    second: catacumbs_419
+  - first:
+      213: -799793498739401023
+    second: catacumbs_420
+  - first:
+      213: 5317967547876464173
+    second: catacumbs_421
+  - first:
+      213: -3990234347288794415
+    second: catacumbs_422
+  - first:
+      213: 2050422740286122720
+    second: catacumbs_423
+  - first:
+      213: -9121292885173621411
+    second: catacumbs_424
+  - first:
+      213: -87365623803454127
+    second: catacumbs_425
+  - first:
+      213: 7209426981396324968
+    second: catacumbs_426
+  - first:
+      213: 5037828237655035193
+    second: catacumbs_427
+  - first:
+      213: -3737465387507984488
+    second: catacumbs_428
+  - first:
+      213: 8724390441221145207
+    second: catacumbs_429
+  - first:
+      213: 4673201532045470660
+    second: catacumbs_430
+  - first:
+      213: 5009255648595354129
+    second: catacumbs_431
+  - first:
+      213: -4927436593791465395
+    second: catacumbs_432
+  - first:
+      213: -1379047484726264844
+    second: catacumbs_433
+  - first:
+      213: -2093060165539628834
+    second: catacumbs_434
+  - first:
+      213: 2582254444192936342
+    second: catacumbs_435
+  - first:
+      213: 7430340898849707276
+    second: catacumbs_436
+  - first:
+      213: 2471502204828737669
+    second: catacumbs_437
+  - first:
+      213: 835951680600763565
+    second: catacumbs_438
+  - first:
+      213: -4822011149884204358
+    second: catacumbs_439
+  - first:
+      213: 4852060142988293625
+    second: catacumbs_440
+  - first:
+      213: 3868972251747709282
+    second: catacumbs_441
+  - first:
+      213: 6828652186041254726
+    second: catacumbs_442
+  - first:
+      213: 5133771185663077451
+    second: catacumbs_443
+  - first:
+      213: -260839917359744393
+    second: catacumbs_444
+  - first:
+      213: 1777287292168186672
+    second: catacumbs_445
+  - first:
+      213: 1867390887795219156
+    second: catacumbs_446
+  - first:
+      213: -2025684923877499810
+    second: catacumbs_447
+  - first:
+      213: 3322988146190069101
+    second: catacumbs_448
+  - first:
+      213: -1080673783268746200
+    second: catacumbs_449
+  - first:
+      213: 4676348779237927887
+    second: catacumbs_450
+  - first:
+      213: 7205797324751255356
+    second: catacumbs_451
+  - first:
+      213: 4715050732665443193
+    second: catacumbs_452
+  - first:
+      213: -7075412991065990877
+    second: catacumbs_453
+  - first:
+      213: 3484173615637111555
+    second: catacumbs_454
+  - first:
+      213: -8767528138003516256
+    second: catacumbs_455
+  - first:
+      213: 7406343968859120470
+    second: catacumbs_456
+  - first:
+      213: -753665401000493894
+    second: catacumbs_457
+  - first:
+      213: -3818320236397849786
+    second: catacumbs_458
+  - first:
+      213: -3829264440605929227
+    second: catacumbs_459
+  - first:
+      213: 6495025602060578697
+    second: catacumbs_460
+  - first:
+      213: -1055964267933537376
+    second: catacumbs_461
+  - first:
+      213: 8099222833080222885
+    second: catacumbs_462
+  - first:
+      213: 3368507181856662075
+    second: catacumbs_463
+  - first:
+      213: -3469344136264866846
+    second: catacumbs_464
+  - first:
+      213: -2754942664219201337
+    second: catacumbs_465
+  - first:
+      213: 7236198803672434468
+    second: catacumbs_466
+  - first:
+      213: 8044525606929030246
+    second: catacumbs_467
+  - first:
+      213: 6182545412090907956
+    second: catacumbs_468
+  - first:
+      213: -3758362301304836933
+    second: catacumbs_469
+  - first:
+      213: -1696356710156149973
+    second: catacumbs_470
+  - first:
+      213: 5995558499868828796
+    second: catacumbs_471
+  - first:
+      213: 7705045835036002482
+    second: catacumbs_472
+  - first:
+      213: 2741121993032274669
+    second: catacumbs_473
+  - first:
+      213: 8418377537531497748
+    second: catacumbs_474
+  - first:
+      213: 3287871032088142105
+    second: catacumbs_475
+  - first:
+      213: -7142789796117103272
+    second: catacumbs_476
+  - first:
+      213: 8434075502326654415
+    second: catacumbs_477
+  - first:
+      213: -5032960107909475434
+    second: catacumbs_478
+  - first:
+      213: -3431920740232236211
+    second: catacumbs_479
+  - first:
+      213: 5029396945292765654
+    second: catacumbs_480
+  - first:
+      213: -7505276952255652840
+    second: catacumbs_481
+  - first:
+      213: 1596774105293681532
+    second: catacumbs_482
+  - first:
+      213: -7137632127436936245
+    second: catacumbs_483
+  - first:
+      213: 7592969243884012754
+    second: catacumbs_484
+  - first:
+      213: -1759805570981500892
+    second: catacumbs_485
+  - first:
+      213: 1194935365499490720
+    second: catacumbs_486
+  - first:
+      213: 339268704615887323
+    second: catacumbs_487
+  - first:
+      213: -1251608999974926308
+    second: catacumbs_488
+  - first:
+      213: 8873866479489099944
+    second: catacumbs_489
+  - first:
+      213: -6821667944555497303
+    second: catacumbs_490
+  - first:
+      213: -3465318524676260617
+    second: catacumbs_491
+  - first:
+      213: 6197667515439375116
+    second: catacumbs_492
+  - first:
+      213: 1925728332534213624
+    second: catacumbs_493
+  - first:
+      213: -931830334883353964
+    second: catacumbs_494
+  - first:
+      213: 2678661435448674830
+    second: catacumbs_495
+  - first:
+      213: -1740640913248299925
+    second: catacumbs_496
+  - first:
+      213: 5314970482460243954
+    second: catacumbs_497
+  - first:
+      213: -1077020629566379859
+    second: catacumbs_498
+  - first:
+      213: 4185204841311184966
+    second: catacumbs_499
+  - first:
+      213: -608682653295518646
+    second: catacumbs_500
+  - first:
+      213: 3126758027616717887
+    second: catacumbs_501
+  - first:
+      213: -9182196498235327908
+    second: catacumbs_502
+  - first:
+      213: -816058008218642606
+    second: catacumbs_503
+  - first:
+      213: -6024646041068953243
+    second: catacumbs_504
+  - first:
+      213: -6960307582102485854
+    second: catacumbs_505
+  - first:
+      213: 6669923410182791147
+    second: catacumbs_506
+  - first:
+      213: 5637098266732963268
+    second: catacumbs_507
+  - first:
+      213: -2904296350464906781
+    second: catacumbs_508
+  - first:
+      213: -5756228344727235779
+    second: catacumbs_509
+  - first:
+      213: -5038806452021839626
+    second: catacumbs_510
+  - first:
+      213: -2141370296950880470
+    second: catacumbs_511
+  - first:
+      213: -6736485740329162010
+    second: catacumbs_512
+  - first:
+      213: 2566495747636269711
+    second: catacumbs_513
+  - first:
+      213: 1690153788667755672
+    second: catacumbs_514
+  - first:
+      213: 3200687169152950110
+    second: catacumbs_515
+  - first:
+      213: 8816033022253974415
+    second: catacumbs_516
+  - first:
+      213: 2001702954810816715
+    second: catacumbs_517
+  - first:
+      213: -8452175254142414878
+    second: catacumbs_518
+  - first:
+      213: 3864099913427655819
+    second: catacumbs_519
+  - first:
+      213: -7988974884662289377
+    second: catacumbs_520
+  - first:
+      213: -93779158140618879
+    second: catacumbs_521
+  - first:
+      213: 7476889206156686492
+    second: catacumbs_522
+  - first:
+      213: 5352167384764214553
+    second: catacumbs_523
+  - first:
+      213: -6187866702005694450
+    second: catacumbs_524
+  - first:
+      213: -1244607321650704085
+    second: catacumbs_525
+  - first:
+      213: 6897755025897609611
+    second: catacumbs_526
+  - first:
+      213: 8465392115730112448
+    second: catacumbs_527
+  - first:
+      213: -6761848097359706226
+    second: catacumbs_528
+  - first:
+      213: -421027870894398012
+    second: catacumbs_529
+  - first:
+      213: -6043215608348394962
+    second: catacumbs_530
+  - first:
+      213: 5266920263983701369
+    second: catacumbs_531
+  - first:
+      213: 7820173363022944265
+    second: catacumbs_532
+  - first:
+      213: 7589992352387774219
+    second: catacumbs_533
+  - first:
+      213: 2198650036853993766
+    second: catacumbs_534
+  - first:
+      213: -5008063953511544582
+    second: catacumbs_535
+  - first:
+      213: -5278103709894087345
+    second: catacumbs_536
+  - first:
+      213: 3848927372986305630
+    second: catacumbs_537
+  - first:
+      213: -6159894612188996858
+    second: catacumbs_538
+  - first:
+      213: -7898497852841407012
+    second: catacumbs_539
+  - first:
+      213: -3104185209932585534
+    second: catacumbs_540
+  - first:
+      213: -1994866426928606421
+    second: catacumbs_541
+  - first:
+      213: -5131312402603972896
+    second: catacumbs_542
+  - first:
+      213: -6477021894983399712
+    second: catacumbs_543
+  - first:
+      213: 8901800304445459592
+    second: catacumbs_544
+  - first:
+      213: 7748537871798180812
+    second: catacumbs_545
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catacumbs_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8867c790fa28ad0800000000000000
+      internalID: -2701404371191166805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da081c5d58d73ca70800000000000000
+      internalID: 8846052106856136877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e53aadaa016c00800000000000000
+      internalID: 892005942197348606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a1358b6bbade5d0800000000000000
+      internalID: -3031578172885624210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8600791e2867d24f0800000000000000
+      internalID: -851894450000560024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff48f1d7f69277930800000000000000
+      internalID: 4140823941207786751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd687d449ec0779a0800000000000000
+      internalID: -6235500963049273633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00127b5c3cfdf6990800000000000000
+      internalID: -7390442431562964736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96005833c5680930800000000000000
+      internalID: 4109646549113374366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed17c724e768cc90800000000000000
+      internalID: -7149350178833097237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f3c22f642224440800000000000000
+      internalID: 4918531431148044149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5486072dfdc75ac80800000000000000
+      internalID: -8312100236492249019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfa42f710d994770800000000000000
+      internalID: 8595573993566941118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff4b1f11fbab25b0800000000000000
+      internalID: -5392027076748685326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44adf6c03e7d7410800000000000000
+      internalID: 1476475000809432138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd544175c7bd19c0800000000000000
+      internalID: -3954802839124681221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bad6c482088a00800000000000000
+      internalID: 758859306507088181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d269305fa82dd0800000000000000
+      internalID: -2510564033164028067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da22a33deae165de0800000000000000
+      internalID: -1344853702506569043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfc74cba33f45dc0800000000000000
+      internalID: -3651025964298154057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda0f2416a84a60f0800000000000000
+      internalID: -1123005278935119137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1f39f2e97ecc810800000000000000
+      internalID: 1787057818748318188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02b9c95b022b81a0800000000000000
+      internalID: -6806308979693997553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c761886fbcb170800000000000000
+      internalID: 8195635877476026279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e88179cc8794e9f0800000000000000
+      internalID: -440060232644589337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ff50b08990a3a0800000000000000
+      internalID: -6656151471259651592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886201de14983a20800000000000000
+      internalID: 3042344408365295752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397117fec56fb8a0800000000000000
+      internalID: -6287194615203137219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc0ae0ddb61462a0800000000000000
+      internalID: -6745241337384530704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168c5dd0e6a27a8c0800000000000000
+      internalID: -3988172292846401439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853864af4be19ae10800000000000000
+      internalID: 2209330854843810648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4840ae835ae4d2650800000000000000
+      internalID: 6209705932745213060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68100ebc231b11040800000000000000
+      internalID: 4616665924758405510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf8269ceafe5dd0800000000000000
+      internalID: -2495281249478181881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e355b86b3b2c07130800000000000000
+      internalID: 3562561382367581502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aeb2e432b840d40800000000000000
+      internalID: 5549713624578910732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f0822752eca2b90800000000000000
+      internalID: -7265768388584534192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5861a27f8de02bc0800000000000000
+      internalID: -3809784084396152742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb67eedfc6f05e80800000000000000
+      internalID: -8191776349528560720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195d5d97de58abb0800000000000000
+      internalID: -4924581912378517225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e3d47f8dcc3de0800000000000000
+      internalID: -1351979772093929287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8294239a4aac2d2f0800000000000000
+      internalID: -949473762859661016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5eb2396d66e100800000000000000
+      internalID: 136917137271708659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249550fe482cbc20800000000000000
+      internalID: 3223495752795132970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ecdecab7e8bf30800000000000000
+      internalID: 4591674609624737435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a90e2c37b1c0830800000000000000
+      internalID: 4038633149849180673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef99df76a823110800000000000000
+      internalID: 1239205026721300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e5d402ddecb8be0800000000000000
+      internalID: -1473857003908669811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de5e500ceebb0ba0800000000000000
+      internalID: -6121589347652313390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6650309736ff2960800000000000000
+      internalID: 7579547416390555244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c7dec32d2d43a0800000000000000
+      internalID: -6679633040503225702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7673dabb349af43f0800000000000000
+      internalID: -914326090956327065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d166a0d54025c0800000000000000
+      internalID: -4242314086536062913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8953fdb08e76fd10800000000000000
+      internalID: 2159052162778487180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_54
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbdbf017bc15c910800000000000000
+      internalID: 1856921993949731835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e5fcf1179962b0800000000000000
+      internalID: -5590771358889547792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_56
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f92d36e16c0acd0800000000000000
+      internalID: -2548819555265634419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709f19f44c5cfec70800000000000000
+      internalID: 9002631627076139271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04033f4604ba1fc0800000000000000
+      internalID: -3523305819272444913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003a084906f7e530800000000000000
+      internalID: 3884343723354107907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8629654365957b210800000000000000
+      internalID: 1348644840200901224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f398cb0285005b0800000000000000
+      internalID: -5404222655219286268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09d037af6d69ac60800000000000000
+      internalID: 7829909753474111758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8b1bb5017b9c10800000000000000
+      internalID: 2061365523880053990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e36203eaf67ccc0800000000000000
+      internalID: -3690858575684026820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d067658344a5c60800000000000000
+      internalID: 7807627912759610664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea87df57428b0a60800000000000000
+      internalID: 7641344435826428647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_67
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea87a759821cf1280800000000000000
+      internalID: -9070318744450205522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f985c65b8b3cc90800000000000000
+      internalID: -7150668693987877048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3530e58f5a697e00800000000000000
+      internalID: 1042981747213481278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8567821163d1c40800000000000000
+      internalID: 5484599368528320716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c2996f7d5a65530800000000000000
+      internalID: 3843441678981082169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae60313202ced250800000000000000
+      internalID: 5971423470610837153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391529601773e33c0800000000000000
+      internalID: -4378000829176458861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586e4e2ea2320160800000000000000
+      internalID: 6990205295315019866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9788110ec41fd90800000000000000
+      internalID: -7065781815117055557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b765e8f41a34d8990800000000000000
+      internalID: -7382169854086850949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d470b2959949fb0800000000000000
+      internalID: -4641916707659100789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4310a955a992b0930800000000000000
+      internalID: 4110424827743568180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4f88e623f013d0800000000000000
+      internalID: -3237820783643374098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d780600b891fb30800000000000000
+      internalID: 4319401399407901969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_81
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aef3712d3184c90800000000000000
+      internalID: -7185471412415501793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48b34a1f65d3b580800000000000000
+      internalID: -8812465372675196851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_83
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46f37c94e95f6080800000000000000
+      internalID: -9192029476027632053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b484153dfe4aa0f0800000000000000
+      internalID: -1104983909141805903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_85
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5b97b72ff698f0800000000000000
+      internalID: -533958959747605365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03023e4bc8e792550800000000000000
+      internalID: 6136575110064316464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_87
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963e5d4e2e1a11750800000000000000
+      internalID: 6273973751777715049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_88
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1558caad41e6a50800000000000000
+      internalID: 6516168640281530855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_89
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16c11186872b240800000000000000
+      internalID: 4806036140716745183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a809703ae09aa90800000000000000
+      internalID: -7302289227435177453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774505ac15eba340800000000000000
+      internalID: 4876242932749125500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42966ed7571ad9900800000000000000
+      internalID: 692887443680422180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dea28756422fef0800000000000000
+      internalID: -75958225485501140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae9644b5d66a16b0800000000000000
+      internalID: -5324830541373595988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcca18bf8318a2090800000000000000
+      internalID: -8058486501488350005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e8600f2fdd960e0800000000000000
+      internalID: -2276044101180289528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_97
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61faba898ae0600800000000000000
+      internalID: 436471587570390729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a512dfa0c4da998e0800000000000000
+      internalID: -1686126043360059046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_99
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccadd63323e1a04e0800000000000000
+      internalID: -2014764682334840116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed50ee2729ac98360800000000000000
+      internalID: 7172486611906463198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_101
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57613160fb1c899b0800000000000000
+      internalID: -5073091954048035211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4180376219cdec10800000000000000
+      internalID: 2084543283420234061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_103
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec29bd0c13cb14a20800000000000000
+      internalID: 3044921744954200782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ce68f6a0ab1bde0800000000000000
+      internalID: -1319068661859292006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a342fbd0e799eb0800000000000000
+      internalID: -4712596937560016273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b05a18fbee04fb0800000000000000
+      internalID: -4665466707674592496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10df26a2c04c20b0800000000000000
+      internalID: -5752151419302981604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0eabac8360969f0800000000000000
+      internalID: -474841444721696524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5f81394c98f1aa0800000000000000
+      internalID: -6188075885609290314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb2de2431f7b12f0800000000000000
+      internalID: -1001066771455857723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579678a3629a8170800000000000000
+      internalID: 8181512629797689178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbeae0d7cbbd3350800000000000000
+      internalID: 5998156745605311418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e6d38a5b16b190800000000000000
+      internalID: -7947134416875756767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15888be1dfbb12530800000000000000
+      internalID: 3828547854058162257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_115
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6ec2c68d4bd5c0800000000000000
+      internalID: -4189669787148849476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe028531fb900680800000000000000
+      internalID: -8790855012340068624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0dc6e93bc6b9d20800000000000000
+      internalID: 3286339871809786107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_118
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1347b045e90f3de0800000000000000
+      internalID: -1351350482949946594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5629db2c3cfdbdf0800000000000000
+      internalID: -162696676151581091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dac5f1e26eccd70800000000000000
+      internalID: 9064873235759017252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66913eebc8e55c920800000000000000
+      internalID: 3009915884558031206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf137f21e7a10c0800000000000000
+      internalID: -4604229049111151752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837ba90edc2725c10800000000000000
+      internalID: 2040819809714353976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b42a0931efb5e00800000000000000
+      internalID: 1034699899396049751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34132c35559791aa0800000000000000
+      internalID: -6189782805459619517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcccdce0c53cf580800000000000000
+      internalID: -8792093269810164516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae5c737d4207090800000000000000
+      internalID: -8038884828084049395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_128
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d706543a69fb770800000000000000
+      internalID: 8628781039052946728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52f8fa15a11b25a0800000000000000
+      internalID: -6545118232633085350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_130
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0e36bc74f04640800000000000000
+      internalID: 5062314797635079808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_131
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157b76bfc4813a90800000000000000
+      internalID: -7335936290355186407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_132
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0245a2e78372912a0800000000000000
+      internalID: -6766333841559104480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_133
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dba51561aeca9c0800000000000000
+      internalID: -3914496594516722310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_134
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f56532a67de71e0800000000000000
+      internalID: -2198082717250855015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b39fff17d864180800000000000000
+      internalID: -9131455673681757430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c55de71ee789e20800000000000000
+      internalID: 3357573029165358161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29df242cb9b63520800000000000000
+      internalID: 2681534845857814831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d00a38b096818d0800000000000000
+      internalID: -2875432863902200547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b171552b0b6089450800000000000000
+      internalID: 6095629451621898011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_140
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e01cb897f0bdfcf0800000000000000
+      internalID: -216822629578043159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edd15c626cd59fe0800000000000000
+      internalID: -1182797011832676889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_142
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe1cdff9763d990800000000000000
+      internalID: -7362427028965823554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d27905d4401197c0800000000000000
+      internalID: -4066451100720860460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_144
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f9e4d3bcd8d0d80800000000000000
+      internalID: -8282808235618033884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f5a460ad959db0800000000000000
+      internalID: -4785745716802356995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_146
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed47e52bbd2931f40800000000000000
+      internalID: 5698059425841837278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_147
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cbff114d75165b0800000000000000
+      internalID: -5376919911757005777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_148
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbefb90a279e2ae0800000000000000
+      internalID: -1572153013097731108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_149
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e459dcb9be8a488d0800000000000000
+      internalID: -2844963334706588338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_150
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205bbed690235d2b0800000000000000
+      internalID: -5560483148838750974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd63941a5a4ff2870800000000000000
+      internalID: 8660409600669464287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0435e433b37baa10800000000000000
+      internalID: 1921756879527425034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6dad336e5f0060800000000000000
+      internalID: 6921854932621291205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad141744d2aa9d50800000000000000
+      internalID: 6744882424550006184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57414bc38395d5e0800000000000000
+      internalID: -1885438674724632739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e399c305a701600800000000000000
+      internalID: 436983648887586344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_157
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b2302539f81e10800000000000000
+      internalID: 2168757227147671457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_158
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7161c8015ab63a0800000000000000
+      internalID: -6671056932530939961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ade1b6eadd9030800000000000000
+      internalID: 3503196769526587595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_160
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39441bab5ac686b0800000000000000
+      internalID: -5294321816866371269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_161
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa4a174287056c0800000000000000
+      internalID: -4156690358142193749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_162
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42860790d3a3ecf0800000000000000
+      internalID: -224155440156081588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7af18a6235e5d40800000000000000
+      internalID: 5574984814225762237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_164
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d35a8c01262340800000000000000
+      internalID: 4838591187400250158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_165
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8c8e9a4cd68240800000000000000
+      internalID: 4793761066428173581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_166
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a084dd9da304960800000000000000
+      internalID: 7584126479886715479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0297d0a6f39072df0800000000000000
+      internalID: -205185090055210720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_168
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37332ea3fba5e19c0800000000000000
+      internalID: -3954623645411560589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f465d09b19b5d90800000000000000
+      internalID: -7107927362895458430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d3f8a2fb20f9e00800000000000000
+      internalID: 1053563857904024881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_171
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88fb8276d8f8aa50800000000000000
+      internalID: 6532744859429369995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba382ef1a071bbd0800000000000000
+      internalID: -2616186067469452620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_173
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b34c1d8704367e0800000000000000
+      internalID: -1773502940594291942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86144141e265e8650800000000000000
+      internalID: 6237017289860071784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_175
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd79ebbfbb08b2d90800000000000000
+      internalID: -7121456840885495841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_176
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a1dc0f31775ad60800000000000000
+      internalID: 7900852048819460743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58217bb75fc155a00800000000000000
+      internalID: 744533154067845765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_178
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a8c9c30d5d1750800000000000000
+      internalID: 6277275726475993765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_179
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a245de28990c03780800000000000000
+      internalID: -8705246314148047830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee479433cddfdc40800000000000000
+      internalID: 5539389897159692011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135570cc357bcc900800000000000000
+      internalID: 706140812123526449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93cf821ec9581eb0800000000000000
+      internalID: -4748947065452641379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a6654e640f17350800000000000000
+      internalID: 6012851164785568310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52338c7d2bd2f63c0800000000000000
+      internalID: -4364219267751070939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_185
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d17d3eb115bec90800000000000000
+      internalID: -7139523604037296795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_186
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc09def3fabc7fd0800000000000000
+      internalID: -2342792149024043839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984d5ae37c69fdb00800000000000000
+      internalID: 855568236717397129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_188
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8aa9fb668f2470800000000000000
+      internalID: 8372058030613367773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360b98dec497a430800000000000000
+      internalID: 3794164827201144380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_190
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75faada0a44a360f0800000000000000
+      internalID: -1124874843995852969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_191
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6270f5dea6237ff80800000000000000
+      internalID: -8072928372207974618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_192
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40935cd1ecf52b00800000000000000
+      internalID: 803326155549806666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_193
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e2e186303103910800000000000000
+      internalID: 1814971555182947852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_194
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af8ac852c7477980800000000000000
+      internalID: -8541279268245958750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d25ff654dabee0800000000000000
+      internalID: -1244448876898626315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_196
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d5221cc47316920800000000000000
+      internalID: 2981725231093276040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_197
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46596f0a6973e1a00800000000000000
+      internalID: 729081309765735780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_198
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9770536bcd8e280800000000000000
+      internalID: -9013711979050206723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_199
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6381791b78ea110800000000000000
+      internalID: 1274104941406336729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_200
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab213a7eb79bfa660800000000000000
+      internalID: 7399336654611354298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de540c70f1a9ab0c0800000000000000
+      internalID: -4559162214694500883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a349bf8e22fa690800000000000000
+      internalID: -7588808463047443818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_203
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9c69dcaf5cf8f0800000000000000
+      internalID: -505423862185551231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_204
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e05f0fcc309be10800000000000000
+      internalID: 2213804870580112985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_205
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e4041fc303a6620800000000000000
+      internalID: 2768077959276285481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_206
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9856c0549e1f1b70800000000000000
+      internalID: 8871843413302335645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_207
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e0630a6cd771be0800000000000000
+      internalID: -1506597258287247770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_208
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f06031c98ecdee0800000000000000
+      internalID: -1234856440774652025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_209
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e141d00b5f7448be0800000000000000
+      internalID: -1475975657324473314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe364d24d5a9630800000000000000
+      internalID: 3934559766074092530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0c5888495487d40800000000000000
+      internalID: 5582288242373673185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_212
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902fa370c5cf2fe0800000000000000
+      internalID: -1211532344374124388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_213
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455bebfcec704c000800000000000000
+      internalID: 55177680265327956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f16bd3b8df250c20800000000000000
+      internalID: 3171994120329322994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_215
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a42db3b4115ff30800000000000000
+      internalID: 4608608808507427474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_216
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251e0a0f913c8b80800000000000000
+      internalID: -8391277446559820500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_217
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeec1b5152422fa0800000000000000
+      internalID: -5827022050675593500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_218
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0e342b215e1930800000000000000
+      internalID: 4115816355196701422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_219
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a587082e1278430800000000000000
+      internalID: 3785031268529887782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_220
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f76d44ab3f8d010800000000000000
+      internalID: 1213988080920723245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_221
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a77483717ce2230800000000000000
+      internalID: 3616046453367470666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_222
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ea9aa588b125c0800000000000000
+      internalID: -4241906489773858558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_223
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a6119594410e5a0800000000000000
+      internalID: -6494168357408773570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_224
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cbc6a867fa292a0800000000000000
+      internalID: -6732125569302086570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_225
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07518c5652d06b400800000000000000
+      internalID: 339473276185613680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14232cfec707ece50800000000000000
+      internalID: 6831521366668358209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb74849153764e9f0800000000000000
+      internalID: -440113385820371013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d7e62aa9281b020800000000000000
+      internalID: 2355807680753204555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_229
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864eeeecc38967bc0800000000000000
+      internalID: -3785671049821100952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af85b3e443fe9e60800000000000000
+      internalID: 7971075867696009122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_231
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269f4d25a92c99fe0800000000000000
+      internalID: -1181699459137603230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_232
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b43a7d6e5636c490800000000000000
+      internalID: -7726428331515956041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_233
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addc54ad7129d0440800000000000000
+      internalID: 4903736200420249050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_234
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe88df38f2835df80800000000000000
+      internalID: -8082492179517437713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_235
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496e838ca63595a0800000000000000
+      internalID: -6515241171352131261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_236
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc935dd70fc01690800000000000000
+      internalID: -7633373735708025633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_237
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ebd94730c8bb30800000000000000
+      internalID: 4303400787647390309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_238
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708fa462cd63c44f0800000000000000
+      internalID: -843238711061972985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_239
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682d8624e0b08ea20800000000000000
+      internalID: 3091733300061459078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_240
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285281f4434d91c70800000000000000
+      internalID: 8942411856251200898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catacumbs_241
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ace3c2fcf79610800000000000000
+      internalID: 1628047909917075376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

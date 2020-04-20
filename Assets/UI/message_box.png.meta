@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 88bee25e0197539469d90ac7cd30577a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2213110166544955125
+    second: message_box_0
+  - first:
+      213: -8029335447878942753
+    second: message_box_1
+  - first:
+      213: 6679238603839937124
+    second: message_box_2
+  - first:
+      213: 1758218283359261710
+    second: message_box_3
+  - first:
+      213: 2753111036239364874
+    second: message_box_4
+  - first:
+      213: -3145369570189502366
+    second: message_box_5
+  - first:
+      213: 2102198362801849649
+    second: message_box_6
+  - first:
+      213: 3544773330645669528
+    second: message_box_7
+  - first:
+      213: -7827589378000324109
+    second: message_box_8
+  - first:
+      213: 2269655329266281316
+    second: message_box_9
+  - first:
+      213: -5149213956375130375
+    second: message_box_10
+  - first:
+      213: -5797348117392806299
+    second: message_box_11
+  - first:
+      213: -250423942601718601
+    second: message_box_12
+  - first:
+      213: 5510915002868204434
+    second: message_box_13
+  - first:
+      213: 5770770873212154871
+    second: message_box_14
+  - first:
+      213: 821409662320307845
+    second: message_box_15
+  - first:
+      213: 6364806808442893404
+    second: message_box_16
+  - first:
+      213: -833160104860769815
+    second: message_box_17
+  - first:
+      213: -9004269092174896841
+    second: message_box_18
+  - first:
+      213: -7721932332693029034
+    second: message_box_19
+  - first:
+      213: 4701528659576322129
+    second: message_box_20
+  - first:
+      213: 9153589914580564083
+    second: message_box_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: message_box_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09484277047941e0800000000000000
+      internalID: -2213110166544955125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf39be83f1129090800000000000000
+      internalID: -8029335447878942753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a94ff3f1c61bc50800000000000000
+      internalID: 6679238603839937124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d9399632766810800000000000000
+      internalID: 1758218283359261710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 318
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03414e96e3053620800000000000000
+      internalID: 2753111036239364874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26818817a076954d0800000000000000
+      internalID: -3145369570189502366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 318
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1354636e5428c2d10800000000000000
+      internalID: 2102198362801849649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d96e2090913130800000000000000
+      internalID: 3544773330645669528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97bacdee0de5390800000000000000
+      internalID: -7827589378000324109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b2d7f2f7f6f7f10800000000000000
+      internalID: 2269655329266281316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec6c930315a88b0800000000000000
+      internalID: -5149213956375130375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 401
+        width: 316
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea5875a9eab8fa0800000000000000
+      internalID: -5797348117392806299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4c8f140c0568cf0800000000000000
+      internalID: -250423942601718601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 316
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293845d3ff3ba7c40800000000000000
+      internalID: 5510915002868204434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f33bf9c885e51050800000000000000
+      internalID: 5770770873212154871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eeca16cbb366b00800000000000000
+      internalID: 821409662320307845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54f931f116545850800000000000000
+      internalID: 6364806808442893404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12fb48c450074f0800000000000000
+      internalID: -833160104860769815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e2e2a7f86a0380800000000000000
+      internalID: -9004269092174896841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f7a3ab47f26d490800000000000000
+      internalID: -7721932332693029034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1587d57f76f2f3140800000000000000
+      internalID: 4701528659576322129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: message_box_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3783c2e8785180f70800000000000000
+      internalID: 9153589914580564083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

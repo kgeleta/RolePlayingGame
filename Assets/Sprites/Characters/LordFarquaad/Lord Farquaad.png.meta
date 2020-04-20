@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 6ab06ebeaeee28743a44a4457850459a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5163733699973966312
+    second: Lord Farquaad_0
+  - first:
+      213: -7376836360659872362
+    second: Lord Farquaad_1
+  - first:
+      213: -7989820048293528021
+    second: Lord Farquaad_2
+  - first:
+      213: 1394208158029594811
+    second: Lord Farquaad_3
+  - first:
+      213: 6216471734115748859
+    second: Lord Farquaad_4
+  - first:
+      213: -2586171524470656057
+    second: Lord Farquaad_5
+  - first:
+      213: 4112227433532762467
+    second: Lord Farquaad_6
+  - first:
+      213: -7797440962792549039
+    second: Lord Farquaad_7
+  - first:
+      213: -2917885566071169217
+    second: Lord Farquaad_8
+  - first:
+      213: -7831316709981416080
+    second: Lord Farquaad_9
+  - first:
+      213: 5803647679956938642
+    second: Lord Farquaad_10
+  - first:
+      213: 712949275323697754
+    second: Lord Farquaad_11
+  - first:
+      213: -6618060909473213708
+    second: Lord Farquaad_12
+  - first:
+      213: 201023486120829740
+    second: Lord Farquaad_13
+  - first:
+      213: -5273454177478462194
+    second: Lord Farquaad_14
+  - first:
+      213: 299090087258612770
+    second: Lord Farquaad_15
+  - first:
+      213: 60941548595084485
+    second: Lord Farquaad_16
+  - first:
+      213: 7123208598717239854
+    second: Lord Farquaad_17
+  - first:
+      213: -2899331891293778517
+    second: Lord Farquaad_18
+  - first:
+      213: -7407596375090736374
+    second: Lord Farquaad_19
+  - first:
+      213: 2602132274347405352
+    second: Lord Farquaad_20
+  - first:
+      213: -5376439129195243268
+    second: Lord Farquaad_21
+  - first:
+      213: -2506683471541636403
+    second: Lord Farquaad_22
+  - first:
+      213: 16523586955910543
+    second: Lord Farquaad_23
+  - first:
+      213: 5199749427429501848
+    second: Lord Farquaad_24
+  - first:
+      213: -1494649989633435542
+    second: Lord Farquaad_25
+  - first:
+      213: 1796650253154399342
+    second: Lord Farquaad_26
+  - first:
+      213: 318673011815780805
+    second: Lord Farquaad_27
+  - first:
+      213: 643418714916506687
+    second: Lord Farquaad_28
+  - first:
+      213: 5738571297839666620
+    second: Lord Farquaad_29
+  - first:
+      213: -6441611483081693547
+    second: Lord Farquaad_30
+  - first:
+      213: 1402631911772218878
+    second: Lord Farquaad_31
+  - first:
+      213: -4016803217814799619
+    second: Lord Farquaad_32
+  - first:
+      213: 7913141069262762532
+    second: Lord Farquaad_33
+  - first:
+      213: -3819491330490423866
+    second: Lord Farquaad_34
+  - first:
+      213: -7787019347421273432
+    second: Lord Farquaad_35
+  - first:
+      213: -3948199058086748188
+    second: Lord Farquaad_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lord Farquaad_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 275
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816965afe8bb658b0800000000000000
+      internalID: -5163733699973966312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 275
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695dea40a6630a990800000000000000
+      internalID: -7376836360659872362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 275
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e7b2a7ff47e1190800000000000000
+      internalID: -7989820048293528021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 275
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb04e42dee8395310800000000000000
+      internalID: 1394208158029594811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 275
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbc93c1b18554650800000000000000
+      internalID: 6216471734115748859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 275
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c332bb53b21c1cd0800000000000000
+      internalID: -2586171524470656057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 228
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36926533011911930800000000000000
+      internalID: 4112227433532762467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 228
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559ba7c1cce9c390800000000000000
+      internalID: -7797440962792549039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 228
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f961b89869187d0800000000000000
+      internalID: -2917885566071169217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 228
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0751af1c1f2915390800000000000000
+      internalID: -7831316709981416080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 228
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f6a5dd0d2ba8050800000000000000
+      internalID: 5803647679956938642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 181
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a8a8aa697e4e900800000000000000
+      internalID: 712949275323697754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 181
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f253f4baace724a0800000000000000
+      internalID: -6618060909473213708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 181
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c232eb9abcd2ac200800000000000000
+      internalID: 201023486120829740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05b8149d5de0d6b0800000000000000
+      internalID: -5273454177478462194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 131
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224e3e689d4962400800000000000000
+      internalID: 299090087258612770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 131
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc721cf30288d000800000000000000
+      internalID: 60941548595084485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 131
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229c8bea78bad260800000000000000
+      internalID: 7123208598717239854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 131
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0975910183c7d0800000000000000
+      internalID: -2899331891293778517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03de3f085ee23990800000000000000
+      internalID: -7407596375090736374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207e0f4481ac1420800000000000000
+      internalID: 2602132274347405352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf89ecbf81d0365b0800000000000000
+      internalID: -5376439129195243268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 81
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2fa62e9a8763dd0800000000000000
+      internalID: -2506683471541636403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 81
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d1ce26d14ba3000800000000000000
+      internalID: 16523586955910543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be9f60e88392840800000000000000
+      internalID: 5199749427429501848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 80
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689b50e0cfe14be0800000000000000
+      internalID: -1494649989633435542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 80
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6432ecd2ebfee810800000000000000
+      internalID: 1796650253154399342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 80
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c198c47a672c6400800000000000000
+      internalID: 318673011815780805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 34
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ccf6889e1ede800800000000000000
+      internalID: 643418714916506687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55cfde03083af40800000000000000
+      internalID: 5738571297839666620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 34
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596a6d93c7cca96a0800000000000000
+      internalID: -6441611483081693547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 34
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56fc3da46277310800000000000000
+      internalID: 1402631911772218878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Farquaad_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 34
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab08d51c27148c0800000000000000
+      internalID: -4016803217814799619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

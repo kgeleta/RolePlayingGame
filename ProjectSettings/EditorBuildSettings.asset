@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: ee34336bd3575974f8ad4b36b7c79c0c
+  - enabled: 1
+    path: Assets/Scenes/TournamentScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/RoadToCastle.unity
+    guid: e926eab2861db314fb475f394ee35b4a
+  - enabled: 1
+    path: Assets/Scenes/LavaBridge.unity
+    guid: 85488e9908c2c974681308d85354348b
+  - enabled: 1
+    path: Assets/Scenes/CastleInside.unity
+    guid: ff3c175e1f9896849b21bb2b31f080ee
+  - enabled: 1
+    path: Assets/Scenes/LastScene.unity
+    guid: 14d14aef0af1f9046bd39c13c3dd0690
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 79c93c49d83c4bf4cacaa697de765f19
+  - enabled: 1
+    path: Assets/Scenes/egg.unity
+    guid: 762fd00ad6a7c3c44abaae97eeef3bc7
   m_configObjects: {}
